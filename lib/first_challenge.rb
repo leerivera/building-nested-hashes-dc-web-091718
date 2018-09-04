@@ -1,7 +1,7 @@
 def first_challenge
    epic_tragedy = {
      
-:montague => {
+ :montague => {
     :patriarch => {  
       :name => "Lord Montague",
       :age => "53"
@@ -26,8 +26,8 @@ def first_challenge
         :attitude => "hot-headed"
       }
     ]
-  },
-  :capulet => {
+   },
+   :capulet => {
     :patriarch => {
       :name => "Lord Capulet",
       :age => "50"
@@ -54,4 +54,4 @@ def first_challenge
       }
     ]
   }
-}
+ }
